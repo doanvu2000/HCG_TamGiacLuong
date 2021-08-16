@@ -1,0 +1,10 @@
+D:\Learning\School\Extra_Semester\HeChuyenGia\BTL\HCG_TamGiacLuong\TamGiacLuong\TamGiacLuong\bin\Debug\TamGiacLuong.exe.config
+D:\Learning\School\Extra_Semester\HeChuyenGia\BTL\HCG_TamGiacLuong\TamGiacLuong\TamGiacLuong\bin\Debug\TamGiacLuong.exe
+D:\Learning\School\Extra_Semester\HeChuyenGia\BTL\HCG_TamGiacLuong\TamGiacLuong\TamGiacLuong\bin\Debug\TamGiacLuong.pdb
+D:\Learning\School\Extra_Semester\HeChuyenGia\BTL\HCG_TamGiacLuong\TamGiacLuong\TamGiacLuong\obj\Debug\TamGiacLuong.csprojAssemblyReference.cache
+D:\Learning\School\Extra_Semester\HeChuyenGia\BTL\HCG_TamGiacLuong\TamGiacLuong\TamGiacLuong\obj\Debug\TamGiacLuong.Form1.resources
+D:\Learning\School\Extra_Semester\HeChuyenGia\BTL\HCG_TamGiacLuong\TamGiacLuong\TamGiacLuong\obj\Debug\TamGiacLuong.Properties.Resources.resources
+D:\Learning\School\Extra_Semester\HeChuyenGia\BTL\HCG_TamGiacLuong\TamGiacLuong\TamGiacLuong\obj\Debug\TamGiacLuong.csproj.GenerateResource.cache
+D:\Learning\School\Extra_Semester\HeChuyenGia\BTL\HCG_TamGiacLuong\TamGiacLuong\TamGiacLuong\obj\Debug\TamGiacLuong.csproj.CoreCompileInputs.cache
+D:\Learning\School\Extra_Semester\HeChuyenGia\BTL\HCG_TamGiacLuong\TamGiacLuong\TamGiacLuong\obj\Debug\TamGiacLuong.exe
+D:\Learning\School\Extra_Semester\HeChuyenGia\BTL\HCG_TamGiacLuong\TamGiacLuong\TamGiacLuong\obj\Debug\TamGiacLuong.pdb
